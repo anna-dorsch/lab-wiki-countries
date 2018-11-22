@@ -19,7 +19,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: black;
 }
 
 @keyframes App-logo-spin {
@@ -29,4 +29,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+header {
+  background-color: #007bff;
+  text-align: left;
+  color: white;
+  height: 40px;
+  line-height: 35px;
+}
+
+header p {
+  margin-left: 20px;
 }
